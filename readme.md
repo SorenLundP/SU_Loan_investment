@@ -39,7 +39,7 @@ The analysis reveals the probability of profitable outcomes, providing insights 
 ### Prerequisites
 
 - **Python 3.8+**
-- Libraries: `numpy`, `pandas` for data manipulation, `matplotlib` (optional) for visualization.
+- Libraries: `numpy`, `pandas` for data manipulation, `matplotlib` (optional) for visualization. `yfinance` if you want to extract the data yourself (optional)
 
 * Install required libraries:
     ```
